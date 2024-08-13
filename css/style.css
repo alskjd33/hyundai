@@ -33,6 +33,7 @@ body {
   word-break: keep-all;
   /* min-width: 780px; */
   background-color: rgb(146, 224, 226);
+  height: 1000px;
 }
 /* 안내창 */
 /* 공통영역 */
@@ -46,5 +47,5 @@ body {
     min-width: 640px;
     padding: 0 90px;
     margin: 0 auto;
-    background-color: bisque;
+    /* background-color: bisque; */
 }
